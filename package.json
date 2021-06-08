@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "publishConfig": {
+  "registry":"https://npm.pkg.github.com"
+  },
   "author": "nicholas2519@gmail.com",
   "license": "MIT",
   "repository":"https://github.com/nicholas-2/steem-state",
