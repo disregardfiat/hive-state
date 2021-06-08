@@ -1,7 +1,7 @@
 {
-  "name": "steem-state",
-  "version": "1.3.4",
-  "description": "A framework for developing soft-consenusus decentralized applications on the Steem blockchain.",
+  "name": "hive-state",
+  "version": "2.1.0",
+  "description": "A framework for developing decentralized applications on the Hive blockchain.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,18 +9,18 @@
   "publishConfig": {
   "registry":"https://npm.pkg.github.com"
   },
-  "author": "nicholas2519@gmail.com",
+  "author": "disregardfiat",
   "license": "MIT",
-  "repository":"https://github.com/nicholas-2/steem-state",
-  "homepage":"https://github.com/nicholas-2/steem-state",
+  "repository":"https://github.com/disregardfiat/hive-state",
+  "homepage":"https://github.com/disregardfiat/hive-state",
   "keywords": [
     "blockchain",
     "cryptocurrency",
     "dapp",
     "dapps",
     "decentralization",
-    "dsteem",
-    "steem",
-    "steemit"
+    "dhive",
+    "hive",
+    "hivejs"
   ]
 }
